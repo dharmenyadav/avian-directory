@@ -1,6 +1,6 @@
 # Avian-Directory
 A C++ based GUI project which handles database of various birds including CRUD operations.
-This is Aditya Pandey, and this is a C++ based GUI project which features mouse supoort and CRUD operations. 
+This is Dharmen Yadav, and this is a C++ based GUI project which features mouse supoort and CRUD operations. 
 It's main functions is to work as database management system for Bird information.
 
 # Working
